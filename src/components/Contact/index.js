@@ -2,7 +2,11 @@ import React from 'react';
 import './contact.css';
 
 function Contact(){
-    <div></div>
+    return(
+    <section id="contact">
+            Contact
+            </section>
+    )
 }
 
 export default Contact

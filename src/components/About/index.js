@@ -3,7 +3,7 @@ import './about.css'
 
 function About(){
     return (
-        <section class="aboutSection">
+        <section class="aboutSection" id="about">
             <h1>
                 About Me!
             </h1>

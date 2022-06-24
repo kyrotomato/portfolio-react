@@ -2,7 +2,7 @@ import React from 'react';
 import './projects.css';
 
 function Projects(){
-    <div></div>
+    <section id="Projects"></section>
 }
 
 export default Projects

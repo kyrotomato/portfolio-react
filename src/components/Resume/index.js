@@ -2,7 +2,7 @@ import React from 'react'
 import './resume.css'
 
 function Resume(){
-    <div></div>
+    <section id="resume">Resume</section>
 }
 
 export default Resume
