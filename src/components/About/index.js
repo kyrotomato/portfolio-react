@@ -1,10 +1,9 @@
 import React from 'react';
-import background from '../../Assets/Images/texas.jpg';
 import './about.css'
 
 function About(){
     return (
-        <section class="aboutSection" style={{ backgroundImage: `url(${background})` }}>
+        <section class="aboutSection">
             <h1>
                 About Me!
             </h1>
