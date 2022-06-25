@@ -11,10 +11,10 @@ function Nav(){
     return(
         <nav>
 
-            <a className={activeNav === '#' ? 'active' : ''} href="#"><HiOutlineHome/></a>
-            <a href="#projects" onClick={() => setActiveNav('#projects')} className={activeNav === '#about' ? 'active' : ''}><BsFillPersonBadgeFill/></a>
-            <a href="#resume"><SiBookstack/></a>
-            <a href="#contact"><AiFillPhone/></a>
+            <a href="#" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''} ><HiOutlineHome/></a>
+            <a href="#projects" onClick={() => setActiveNav('#projects')} className={activeNav === '#projects' ? 'active' : ''}><BsFillPersonBadgeFill/></a>
+            <a href="#resume" onClick={() => setActiveNav('#resume')} className={activeNav === '#resume' ? 'active' : ''}><SiBookstack/></a>
+            <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><AiFillPhone/></a>
         </nav>
     );
 }
