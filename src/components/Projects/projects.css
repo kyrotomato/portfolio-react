@@ -47,3 +47,13 @@
         gap: 1rem;
     }
   }
+
+  /*additional media query to fix clipping at 340 pixels*/
+@media screen and (max-width: 340px) {
+    .experienceContainer{
+        gap: 1rem;
+}
+    #projects{
+        margin-top: 29rem;
+    }
+}

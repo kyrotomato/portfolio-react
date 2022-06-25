@@ -57,7 +57,7 @@
   
   /* other devices (phones) */
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .experienceContainer{
         gap: 1rem;
 
@@ -67,3 +67,14 @@
         padding: 2rem 1rem;
     }
   }
+
+/*additional media query to fix clipping at 340 pixels*/
+@media screen and (max-width: 340px) {
+    .experienceContainer{
+        gap: 1rem;
+}
+    #resume{
+        margin-top: 25rem;
+    }
+}
+    
