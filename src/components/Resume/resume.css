@@ -70,11 +70,13 @@
 
 /*additional media query to fix clipping at 340 pixels*/
 @media screen and (max-width: 340px) {
-    .experienceContainer{
+    .experienceContainer > div{
         gap: 1rem;
 }
     #resume{
         margin-top: 25rem;
     }
+
+
 }
     
