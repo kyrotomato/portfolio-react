@@ -117,8 +117,9 @@ img {
   }
   section {
     margin-top: 6rem;
-
+    height: 150vh;
   }
+  
 }
 
 /* other devices (phones) */
@@ -130,5 +131,9 @@ img {
   }
   section > h2 {
     margin-top: 2rem;
+  }
+  section{
+    margin-top: 8rem;
+    height: 150vh;
   }
 }

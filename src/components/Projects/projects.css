@@ -30,6 +30,7 @@
 }
 
 
+
 /* other devices (tablets) */
 
 @media screen and (max-width: 1024px) {
@@ -46,15 +47,8 @@
         grid-template-columns: 1fr;
         gap: 1rem;
     }
+
   }
 
   /*additional media query to fix clipping at 340 pixels*/
-@media screen and (max-width: 340px) {
-    .projectContainer{
-        gap: 1rem;
-}
-    #projects{
-        margin-top: 29rem;
-    }
 
-}
