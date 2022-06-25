@@ -7,7 +7,6 @@ import Projects from './components/Projects';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
 
-const currentClass = document.getElementsByClassName('active');
 
 function App() {
   const [activeNav, setActiveNav] = useState('#');
