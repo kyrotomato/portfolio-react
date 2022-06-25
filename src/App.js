@@ -9,16 +9,16 @@ import Contact from './components/Contact';
 
 
 function App() {
-  const [activeNav, setActiveNav] = useState('#');
+  const [activeNav, setActiveNav] = useState('/');
   return (
 <>
 <Header></Header>
 <Nav activeNav={activeNav}
 setActiveNav={setActiveNav}></Nav>
-{activeNav === '#' && <About></About>}
-{activeNav === 'resume' && <Resume></Resume>}
-{activeNav === 'projects' && <Projects></Projects>}
-{activeNav === 'contact' && <Contact></Contact>}
+{activeNav === '/' && <About></About>}
+{activeNav === '/resume' && <Resume></Resume>}
+{activeNav === '/projects' && <Projects></Projects>}
+{activeNav === '/contact' && <Contact></Contact>}
 
 
 <Footer></Footer>
