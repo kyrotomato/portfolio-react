@@ -9,21 +9,33 @@ import Contact from './components/Contact';
 
 
 function App() {
-  const [activeNav, setActiveNav] = useState('/');
-  return (
-<>
-<Header></Header>
-<Nav activeNav={activeNav}
-setActiveNav={setActiveNav}></Nav>
-{activeNav === '/' && <About></About>}
-{activeNav === '/resume' && <Resume></Resume>}
-{activeNav === '/projects' && <Projects></Projects>}
-{activeNav === '/contact' && <Contact></Contact>}
+  const [activeNav, setActiveNav] = useState('home');
+  const renderPage = () => {
+    if (activeNav === 'home') {
+      return <About></About>;
+    }
+    if (activeNav === 'resume') {
+      return <Resume></Resume>
+    }
+    if (activeNav === 'projects') {
+      return <Projects></Projects>
+    }
+    if (activeNav === 'contact') {
+      return <Contact></Contact>
+    }
 
+  }
+ const handlePageChange = (page) => setActiveNav(page);
+  return (
+    <>
+      <Header></Header>
+      <Nav activeNav={activeNav}
+       handlePageChange={handlePageChange}></Nav>
+      {renderPage()}
 
-<Footer></Footer>
-</>
-  );
+      <Footer></Footer>
+    </>
+  );
 }
 
 export default App;
