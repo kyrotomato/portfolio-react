@@ -48,6 +48,9 @@
     .aboutContent p{
         margin: 1rem 0 1.5;
     }
+    .addSpace{
+        height: 131px;
+}
   }
   
   /* other devices (phones) */
@@ -63,12 +66,6 @@
     .aboutContent p{
         margin: 1.5rem 0;
     }
-    .someSpace{
-        height: 120px;
+
 }
-  }
-  @media screen and (max-height: 710px) {
-    .someSpace{
-        height: 120px;
-}
-  }
+
