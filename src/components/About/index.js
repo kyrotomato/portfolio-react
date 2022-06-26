@@ -18,8 +18,9 @@ function About() {
                 </div>
 
                 <div className='aboutContent'>
-                    <p>Hello my name is Thomas McCalister and I am from the beautiful city of San Antonio. I am a former maintenance professional who dedicated 6 years of service with the united states
-                        air force. I worked on complex systems, modifying, repairing and troubleshooting. Ive learned to work
+                    <p>Hello my name is Thomas McCalister and I am from the beautiful city of San Antonio. I am a former maintenance professional 
+                        who dedicated 6 years of service with the United States
+                        Air Force. I worked on complex systems, modifying, repairing and troubleshooting jet engines. Ive learned to work
                         effectively as a team, having excellent comunication skills, and am experienced in complex problem solving
                         and critical thinking.
                         I had my first experience with programming on my high school robotics team where I self taught
