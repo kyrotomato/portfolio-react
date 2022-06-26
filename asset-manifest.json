@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8bb36fd.css",
-    "main.js": "/static/js/main.9f40d993.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/me-also.jpg": "/static/media/me-also.48cb9208466470dd640d.jpg",
-    "static/media/weather.png": "/static/media/weather.806f6a9891dec8343593.png",
-    "static/media/me-placeholder.jpg": "/static/media/me-placeholder.aa132bbadad58e212141.jpg",
-    "static/media/ecommerce.png": "/static/media/ecommerce.c7c7291b31f270acb5b2.png",
-    "static/media/fantasy.png": "/static/media/fantasy.ba946943581736658ba6.png",
-    "static/media/readmegen.png": "/static/media/readmegen.f198f7fa4e11053fe7f7.png",
-    "static/media/notesnow.png": "/static/media/notesnow.39c6188714d5426dc9d3.png",
-    "index.html": "/index.html",
-    "main.a8bb36fd.css.map": "/static/css/main.a8bb36fd.css.map",
-    "main.9f40d993.js.map": "/static/js/main.9f40d993.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/portfolio-react/static/css/main.a8bb36fd.css",
+    "main.js": "/portfolio-react/static/js/main.069dfc4e.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio-react/static/js/787.128fc6e9.chunk.js",
+    "static/media/me-also.jpg": "/portfolio-react/static/media/me-also.48cb9208466470dd640d.jpg",
+    "static/media/weather.png": "/portfolio-react/static/media/weather.806f6a9891dec8343593.png",
+    "static/media/me-placeholder.jpg": "/portfolio-react/static/media/me-placeholder.aa132bbadad58e212141.jpg",
+    "static/media/Resume.pdf": "/portfolio-react/static/media/Resume.661d4a816c97ee13e059.pdf",
+    "static/media/ecommerce.png": "/portfolio-react/static/media/ecommerce.c7c7291b31f270acb5b2.png",
+    "static/media/fantasy.png": "/portfolio-react/static/media/fantasy.ba946943581736658ba6.png",
+    "static/media/readmegen.png": "/portfolio-react/static/media/readmegen.f198f7fa4e11053fe7f7.png",
+    "static/media/notesnow.png": "/portfolio-react/static/media/notesnow.39c6188714d5426dc9d3.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.a8bb36fd.css.map": "/portfolio-react/static/css/main.a8bb36fd.css.map",
+    "main.069dfc4e.js.map": "/portfolio-react/static/js/main.069dfc4e.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio-react/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8bb36fd.css",
-    "static/js/main.9f40d993.js"
+    "static/js/main.069dfc4e.js"
   ]
 }
