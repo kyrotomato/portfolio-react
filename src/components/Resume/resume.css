@@ -75,4 +75,9 @@
 }
 
 }
-    
+@media screen and (max-height: 710px) {
+    .someSpace{
+        height: 60px;
+}
+
+}

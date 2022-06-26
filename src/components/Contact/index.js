@@ -39,6 +39,7 @@ function Contact(){
                     <button type='submit' className='btn btn-primary'>Send Message</button>
                 </form>
             </div>
+            <div className='someSpace'></div>
             </section>
     )
 }

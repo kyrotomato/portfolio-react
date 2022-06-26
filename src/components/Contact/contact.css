@@ -80,3 +80,8 @@ input, textarea{
         width: var(--container-width-sm);
     }
   }
+  @media screen and (max-height: 710px) {
+    .someSpace{
+        height: 120px;
+}
+  }

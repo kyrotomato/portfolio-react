@@ -91,6 +91,7 @@ function Resume() {
                 </div>
             </div>
         </div>
+        <div className='someSpace'></div>
     </section>
 
     )
