@@ -26,7 +26,7 @@ function About() {
                         I had my first experience with programming on my high school robotics team where I self taught
                         myself Java using only documentation. After that I enlisted in the Air Force and used that same
                         go getter attitude to learn maintenance as well as principles of electricity.
-                        After spending 6 months in a bootcamp of a different kind, I am ready to hone the skills I
+                        After spending 6 months in a bootcamp of a different kind at The Univertsity of Texas at San Antonio, I am ready to hone the skills I
                         have learned as a Fullstack Web Developer to bring the same quality I have brought to my
                         former craft.
                     </p>
