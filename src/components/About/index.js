@@ -1,6 +1,7 @@
 import React from 'react';
 import './about.css'
 import meAlso from '../../Assets/Images/me-also.jpg'
+import resume from '../../Assets/Images/Resume.pdf'
 
 function About() {
     return (
@@ -23,7 +24,7 @@ function About() {
                         Maybe mention something about high school robotics.
                     </p>
                     <p>This paragraph will be a summary, and an explanation of my soft skills. This paragraph shouldnt be as long but is still really important</p>
-                    <a href='#contact' className='btn btn-primary'>Contact Me!</a>
+                    <a href={resume} className='btn btn-primary'>My Resume!</a>
                 </div>
 
             </div>
