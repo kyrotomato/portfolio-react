@@ -12,18 +12,27 @@ function About() {
             <h2>About me</h2>
             <div className="container aboutContainer">
                 <div className='aboutMe'>
-                <div className='aboutMeImg'>
-                    <img src={meAlso} alt=""/>
-                </div>
+                    <div className='aboutMeImg'>
+                        <img src={meAlso} alt="" />
+                    </div>
                 </div>
 
                 <div className='aboutContent'>
-                    <p>This will be a paragraph talking about my accomplishments that I most likely will have to change a bunch of times
-                        currently I am just throwing all this in here so I have a lot of text. I will talk about my troubleshooting experience and all that jazz.
-                        Try to take this time to elaborate to employers that I have a diverse skill set, not just what I learned in this bootcamp.
-                        Maybe mention something about high school robotics.
+                    <p>Hello my name is Thomas McCalister and I am from the beautiful city of San Antonio. I am a former maintenance professional who dedicated 6 years of service with the united states
+                        air force. I worked on complex systems, modifying, repairing and troubleshooting. Ive learned to work
+                        effectively as a team, having excellent comunication skills, and am experienced in complex problem solving
+                        and critical thinking.
+                        I had my first experience with programming on my high school robotics team where I self taught
+                        myself Java using only documentation. After that I enlisted in the Air Force and used that same
+                        go getter attitude to learn maintenance as well as principles of electricity.
+                        After spending 6 months in a bootcamp of a different kind, I am ready to hone the skills I
+                        have learned as a Fullstack Web Developer to bring the same quality I have brought to my
+                        former craft.
                     </p>
-                    <p>This paragraph will be a summary, and an explanation of my soft skills. This paragraph shouldnt be as long but is still really important</p>
+                    <p>I am certain my experience as a team member and leader will be valuable wherever I go next,
+                        and the experience I have gained in my bootcamp will help me get there.
+                        I am excited to start the next section of my professional career, if you have an opportunity to
+                        learn and grow as a developer I would love to become an asset to your team. </p>
                     <a href={resume} className='btn btn-primary'>My Resume!</a>
                 </div>
 
