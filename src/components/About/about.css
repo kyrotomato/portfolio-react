@@ -63,6 +63,9 @@
     .aboutContent p{
         margin: 1.5rem 0;
     }
+    .someSpace{
+        height: 120px;
+}
   }
   @media screen and (max-height: 710px) {
     .someSpace{
