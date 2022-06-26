@@ -4,8 +4,7 @@ import { BsCheckCircle } from 'react-icons/bs'
 
 function Resume() {
     return (<section id="resume">
-        <h5>My Resume and Experience</h5>
-        <h2>Resume</h2>
+        <h5>My Experience</h5>
         <h2>Experience</h2>
         <div className="container experienceContainer">
             <div className="experiencePlaces">
