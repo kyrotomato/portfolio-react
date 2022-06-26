@@ -15,7 +15,7 @@ function Header(){
                 <img src={ME} alt='me'/>
             </div>
 
-            <a href='#contact' className='scrollDown'>Contact me!</a>
+            <a href='#contact' className='scrollDown'>Welcome!</a>
 
         </div>
     </header>

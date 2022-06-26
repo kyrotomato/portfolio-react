@@ -75,6 +75,7 @@ function Projects(){
             })
         }
         </div>
+        <div className='someSpace'></div>
    
 
 

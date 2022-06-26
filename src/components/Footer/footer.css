@@ -1,0 +1,12 @@
+.footer {
+    text-size-adjust: ;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--color-bg-variant);
+    color: white;
+    text-align: center;
+    display:inline;
+    margin-top: 40rem;
+  }
