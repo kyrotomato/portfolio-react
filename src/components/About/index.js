@@ -28,7 +28,7 @@ function About() {
                 </div>
 
             </div>
-            
+            <div className='someSpace'></div>
         </section>
 
     );

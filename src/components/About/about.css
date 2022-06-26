@@ -64,3 +64,8 @@
         margin: 1.5rem 0;
     }
   }
+  @media screen and (max-height: 710px) {
+    .someSpace{
+        height: 120px;
+}
+  }
