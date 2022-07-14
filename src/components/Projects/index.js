@@ -4,7 +4,7 @@ import patioImg from '../../Assets/Images/patio.png'
 import fantasyImg from '../../Assets/Images/fantasy.png'
 import weatherImg from '../../Assets/Images/weather.png'
 import readmeIMG from '../../Assets/Images/readmegen.png'
-import ecommerceImg from '../../Assets/Images/ecommerce.png'
+import currentImg from '../../Assets/Images/current.png'
 import notesImg from '../../Assets/Images/notesnow.png'
 
 const proj = [
@@ -45,10 +45,10 @@ const proj = [
     },
     {
         id: 6,
-        image: ecommerceImg,
-        title: 'E-Commerce Back end',
-        github: 'https://github.com/kyrotomato/e-marketplace',
-        demo: 'https://drive.google.com/file/d/1o0XGFgGuNr63VPtDK1_nktIMeuSjHDIa/view?usp=sharing'
+        image: currentImg,
+        title: 'Current E-Business Card',
+        github: 'https://github.com/JonCurls/current',
+        demo: 'https://desolate-crag-78193.herokuapp.com/'
     }
 ]
 
